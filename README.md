@@ -1,5 +1,5 @@
 # AirTouch
-Airtouch is an handgesture control system using AI. that control the mouse move and press events, using hand gestures recognition.
+Airtouch is an ML based computer control system. that control the mouse & keyboard behaviours using, using hand gestures recognition and human voice. 
 
 
 ![Screenshot](screenshots/demo.png)
